@@ -1,2 +1,2 @@
 # rnBaseProject
-Custom Project base of React-Native based on Clean Archtecture
+Base React Native project utilizing Clean Architecture for new projects
