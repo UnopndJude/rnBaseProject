@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Android
+android/build/
+android/app/build/
+android/gradle/wrapper/gradle-wrapper.jar
+android/gradle/caches/
+
+# iOS
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/*.xcworkspace
+!ios/*.xcworkspace/xcshareddata/
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw??
